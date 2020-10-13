@@ -56,6 +56,6 @@ If it's your first time playing, follow this check list in freeplay mode to try 
 - Go up to the dead body and hit "Report" (or 'R' key on the PC) - this will initiate a mock vote. Click someones name and then the green check that appears to vote for them.
 
 
-If you can do those things then you'll be off to a great start for playing with a group!
+If you can complete all of the above items then you'll be off to a great start for playing with a group! The rest can be learned as you go.
 
 The online play experience with random people is not great, but it might be worth playing an actual game to get your feet wet. From the main menu you can select "Online" and the "Find Game" under the "Public" heading. This will list some open games that you can join, although often times it displays games that are already in progress. Keep trying if you get an error!
