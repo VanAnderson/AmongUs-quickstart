@@ -35,7 +35,7 @@ If it's your first time playing, follow this check list in freeplay mode to try 
   ![customization laptop](https://raw.githubusercontent.com/VanAnderson/AmongUs-quickstart/main/IMG_1281.jpg)
 
 
-*As the imposter:*
+#### *As the imposter:*
 
 - Go up to a vent in the floor and enter into it by clicking the "VENT" icon that appears or pressing spacebar if on PC
 	- While in the vent, click the arrows that appears to traverse across the map
