@@ -1,12 +1,17 @@
+# Among Us Quick Start Guide
+
+## Videos
 Some short videos to get an overview:
 
 https://www.youtube.com/watch?v=muqaBob6pfw
 
 https://www.youtube.com/watch?v=mnpjpdhUNjY
 
-A longer, more detailed how-to-play video:
+__[optional]__ A longer, more detailed how-to-play video:
 
 https://www.youtube.com/watch?v=DXWLRihLmnY
+
+## Free play 
 
 If it's your first time playing, follow this check list in freeplay mode to try out some of the basic game mechanics:
 
@@ -19,11 +24,11 @@ If it's your first time playing, follow this check list in freeplay mode to try 
 	- This is something that will be useful to reference often!
 - Complete the lists of tasks assigned to you
 	- The task list assigned to you is listed in the upper left hand corner, click the "Tasks" bar to expand and collapse it
-	- They will appear as a yellow ( ! ) icon on the map.
+	- Locations of assigned tasks will appear as a yellow ( ! ) icon on the map overlay.
 	- Each task is basically a simple game of coordination.
 		- Some tasks will give instrctions
 		- Some tasks are not super intuitive - reference https://www.youtube.com/watch?v=wCyZmcW4q90 if you need to see how to solve each tasks.
-	- As you approach the tasks on the map, a yellow arrow will guide you towards what you need to do. Tasks will also be highlighted in a yellow frame.
+	- As you approach the tasks on the map, a yellow arrow will guide you towards what you need to do. Tasks will also be highlighted in a yellow border.
 	- Once you have gotten in proximity enough to a task, hit the "USE" icon that appears or press spacebar on PC. This will start the task
 
 - In freeplay, there is a laptop computer sitting on one of the tables (see picture)
