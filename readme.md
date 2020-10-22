@@ -11,7 +11,7 @@ __[optional]__ A longer, more detailed how-to-play video:
 
 https://www.youtube.com/watch?v=DXWLRihLmnY
 
-## Free play 
+## Game Mechanics Checklist (in Freeplay)
 
 If it's your first time playing, follow this check list in freeplay mode to try out some of the basic game mechanics:
 
@@ -54,6 +54,8 @@ If it's your first time playing, follow this check list in freeplay mode to try 
 - Run around the map until you find one of the crewmates, they will be called "Dummy 1" "Dummy 2", ect.
 - Get close to the crew mate and click "Kill" (Or 'Q' key on the PC) to kill the crew mate
 - Go up to the dead body and hit "Report" (or 'R' key on the PC) - this will initiate a mock vote. Click someones name and then the green check that appears to vote for them.
+	- Both imposters and crewmates can report a dead body. If you are the imposter, sometimes reporting your own kill can make you seem less suspicious.
+	- Reporting a dead body during a critical sabatoge will cancel the sabatoge.
 
 
 If you can complete all of the above items then you'll be off to a great start for playing with a group! The rest can be learned as you go.
